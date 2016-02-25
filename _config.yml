@@ -1,7 +1,7 @@
 name: Quebec City Ideas
 favicon: null
-layout_spectrum: 0.0955976766999811
-typography_spectrum: 0.9495733093935996
+layout_spectrum: 0.74486
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5138196619227529
-  lightness: 0.10034708469174802
+    - '#dcdce4'
+    - '#fefefe'
+    - '#c96a30'
+    - '#db9100'
+    - '#8f3906'
+  brandStrength: 0.0625
+  lightness: 0.3125
   saturation: 0.6889299172908068
-  rhythmicContrast: 0.646093089831993
+  rhythmicContrast: 0.5
 purpose: []
