@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Quebec City Ideas]]></title>
         <description><![CDATA[Quebec City Ideas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quebec-city-ideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 15:43:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 15:50:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quebec-city-ideas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.tora-yaramen.com/uploads/5/9/6/5/59656963/5319005_orig.jpg">]]></description>
-            <link>undefined99b9a681-8f53-4afe-b7cd-4fe998e81cf0/index.html</link>
+            <title><![CDATA[Hosaka-Ya Ramen]]></title>
+            <description><![CDATA[<article><h1>Hosaka-Ya Ramen</h1><p>75 Rue St-Joseph Est, Ville de Québec</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4fccb619aa72dbfb0ee60efbb4b724a5c09dc14.jpg"></article>]]></description>
+            <link>http://www.tora-yaramen.com/menu.html</link>
             <guid isPermaLink="false">99b9a681-8f53-4afe-b7cd-4fe998e81cf0</guid>
-            <pubDate>Thu, 25 Feb 2016 15:43:56 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 15:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
